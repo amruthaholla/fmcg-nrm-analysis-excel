@@ -1,5 +1,5 @@
 # fmcg-nrm-analysis-excel
-## Net Revenue Management (NRM) analysis using Excel – FMCG shampoo case study
+## Net Revenue Management (NRM) Analysis – FMCG Shampoo Category (Excel Case Study)
 
 ### Overview:
 This project analyzes sales performance and identifies growth opportunities for a fictional FMCG company, HealthMax, using Excel. It applies Net Revenue Management (NRM) principles to drive revenue growth and improve profitability through data-driven decisions.
